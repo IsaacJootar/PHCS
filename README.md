@@ -2,15 +2,6 @@
 
 
 
-**First used  by** **Primary health care center, Angwan Ninzom, 
-Keffi LGA, Nasarawa state.**
-
-
-
-
-
-## Built With
-
-Laravel
+**approved for 12 ** **Primary health care centers in Abuja..
 
 
